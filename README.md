@@ -34,7 +34,6 @@ An end-to-end networking system that:
   - server.py — multithreaded TCP server  
   - client.py — TCP client  
 - server_dir/ — repository of downloadable files  
-- docs/ — optional demo assets (screenshots / GIFs)  
 - .gitignore  
 - LICENSE  
 - README.md  
